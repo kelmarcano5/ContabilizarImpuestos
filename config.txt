@@ -1,0 +1,5 @@
+host=localhost;
+port=5433;
+dbName=simonedb_qa;
+user=postgres;
+pass=postgres;
